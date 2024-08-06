@@ -30,6 +30,11 @@ hr {
   background-color: var(--text-color);
   margin: 30px auto;
 }
+.all skill{
+  cursor: pointer;
+  transition: 0.3s;
+  
+}
 
 @media (width >= 800px) {
   .skillList {
